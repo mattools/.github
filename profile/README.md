@@ -7,7 +7,7 @@ A collection of tools for image processing and scientific computing with Matlab.
 * [MatGeom](https://github.com/mattools/matGeom): Matlab geometry toolbox for 2D/3D geometric computing
 * [MatImage](https://github.com/mattools/matImage): Image Processing library for Matlab
 * [MatStats](https://github.com/mattools/matStats): Statistical Data Analysis Toolbox for Matlab. Provides a Table class similar to R's dataframe, as well a exloratory data analysis tools.
-* [Matlab Image Class](https://github.com/mattools/matlab-image-class) (looking for a better name...): Object-Oriented image processing library, used in the [ImageM](https://github.com/mattools/ImageM) application.
+* [Matlab Image Class](https://github.com/mattools/matlab-image-class) (looking for a better name...): an Object-Oriented image processing library, used in the [ImageM](https://github.com/mattools/ImageM) application.
 
 ### Standalone applications
 
@@ -15,14 +15,14 @@ A collection of tools for image processing and scientific computing with Matlab.
 
 ### Utility toolboxes
 
-* [matUtils](https://github.com/mattools/matUtils): General purpose utility functions for Matlab
-* [optim-utils](https://github.com/mattools/optim-utils); Some utility functions for working on optimization algorithms
-* [matlab-templates](https://github.com/mattools/matlab-templates): A collection of functions for quickly generating pre-edited matlab files for specific use cases
-* [VersionNumber](https://github.com/mattools/VersionNumber): Simple utility to manage version number as string.
+* [matUtils](https://github.com/mattools/matUtils): general purpose utility functions for Matlab
+* [optim-utils](https://github.com/mattools/optim-utils): some utility functions for working on optimization algorithms
+* [matlab-templates](https://github.com/mattools/matlab-templates): a collection of functions for quickly generating pre-edited matlab files for specific use cases
+* [VersionNumber](https://github.com/mattools/VersionNumber): simple utility to manage version number as string.
 
 ### Incubating toolboxes
 
-* [geometry](https://github.com/mattools/geometry): An object-oriented port of MatGeom, that defines a class hierarchy for representing 2D/3D geometries.
+* [geometry](https://github.com/mattools/geometry): an object-oriented port of MatGeom, that defines a class hierarchy for representing 2D/3D geometries.
 
 ### Old stuff
 

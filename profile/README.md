@@ -4,10 +4,10 @@ A collection of tools for image processing and scientific computing with Matlab.
 
 ### Generic Toolboxes
 
-* [MatGeom](https://github.com/mattools/matGeom): Matlab geometry toolbox for 2D/3D geometric computing
-* [MatImage](https://github.com/mattools/matImage): Image Processing library for Matlab
-* [MatStats](https://github.com/mattools/matStats): Statistical Data Analysis Toolbox for Matlab. Provides a Table class similar to R's dataframe, as well a exloratory data analysis tools.
-* [Matlab Image Class](https://github.com/mattools/matlab-image-class) (looking for a better name...): an Object-Oriented image processing library, used in the [ImageM](https://github.com/mattools/ImageM) application.
+* [MatGeom](https://github.com/mattools/matGeom): Matlab geometry toolbox for 2D/3D geometric computing.
+* [MatImage](https://github.com/mattools/matImage): Image Processing library for Matlab, that extends and complements the Matlab Image Processing toolbox. Provides functions for image fitlering, analysis, generation of phantoms...
+* [MatStats](https://github.com/mattools/matStats): Statistical Data Analysis Toolbox for Matlab. Provides a `Table` class similar to R's dataframe, as well as exploratory data analysis tools. Some features require the MatGeom library.
+* [Matlab Image Class](https://github.com/mattools/matlab-image-class) (looking for a better name...): an image processing library based on a single `Image` class. Manages various image types and dimensionalities, as well as spatial calibration. Used as basis of the [ImageM](https://github.com/mattools/ImageM) application.
 
 ### Standalone applications
 
@@ -17,7 +17,7 @@ A collection of tools for image processing and scientific computing with Matlab.
 
 * [matUtils](https://github.com/mattools/matUtils): general purpose utility functions for Matlab
 * [optim-utils](https://github.com/mattools/optim-utils): some utility functions for working on optimization algorithms
-* [matlab-templates](https://github.com/mattools/matlab-templates): a collection of functions for quickly generating pre-edited matlab files for specific use cases
+* [matlab-templates](https://github.com/mattools/matlab-templates): a collection of functions for quickly generating pre-edited matlab files for specific use cases (new class file, new test case file...)
 * [VersionNumber](https://github.com/mattools/VersionNumber): simple utility to manage version number as string.
 
 ### Incubating toolboxes

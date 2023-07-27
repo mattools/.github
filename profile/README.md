@@ -16,13 +16,14 @@ A collection of tools for image processing and scientific computing with Matlab.
 ### Utility toolboxes
 
 * [matUtils](https://github.com/mattools/matUtils): general purpose utility functions for Matlab
-* [optim-utils](https://github.com/mattools/optim-utils): some utility functions for working on optimization algorithms
 * [matlab-templates](https://github.com/mattools/matlab-templates): a collection of functions for quickly generating pre-edited matlab files for specific use cases (new class file, new test case file...)
+* [GenericDialog](https://github.com/mattools/GenericDialog): a simple generic dialog for choosing parameters, mimicking [ImageJ's GenericDialog](https://imagej.net/scripting/generic-dialog) functionalities
 * [VersionNumber](https://github.com/mattools/VersionNumber): simple utility to manage version number as string.
+* [optim-utils](https://github.com/mattools/optim-utils): some utility functions for working on optimization algorithms
 
 ### Incubating toolboxes
 
-* [geometry](https://github.com/mattools/geometry): an object-oriented port of MatGeom, that defines a class hierarchy for representing 2D/3D geometries.
+* [geometry](https://github.com/mattools/geometry): an object-oriented port of [MatGeom](https://github.com/mattools/matGeom), that defines a class hierarchy for representing 2D/3D geometries.
 
 ### Old stuff
 

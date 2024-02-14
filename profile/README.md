@@ -1,6 +1,6 @@
-# .github
+# MatTools
 
-A collection of tools for image processing and scientific computing with Matlab.
+MatTools is a collection of toolboxes and applications for image processing and scientific computing with Matlab.
 
 ### Generic Toolboxes
 

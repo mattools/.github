@@ -13,7 +13,7 @@ MatTools is a collection of toolboxes and applications for image processing and 
 ### Standalone applications
 
 * [ImageM](https://github.com/mattools/ImageM): GUI for Image processing with Matlab. Based on [Matlab Image Class](https://github.com/mattools/matlab-image-class), and using [MatGeom](https://github.com/mattools/matGeom) and [MatStats](https://github.com/mattools/matStats).
-* [ImageM](https://github.com/mattools/MeshViewer): a GUI for the visualization and manipulation of 3D polygonal meshes, based on [MatGeom](https://github.com/mattools/matGeom). Can be used to check the results of 3D mesh registration algorithms.
+* [MeshViewer](https://github.com/mattools/MeshViewer): a GUI for the visualization and manipulation of 3D polygonal meshes, based on [MatGeom](https://github.com/mattools/matGeom). Can be used to check the results of 3D mesh registration algorithms.
 * 
 ### Utility toolboxes
 
